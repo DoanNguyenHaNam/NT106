@@ -1,7 +1,7 @@
 # NT106
 ---------------------
 #Lab3
-MSSV: 24521100
+MSSV: 24521100 - Đoàn Nguyễn Hà Nam
 
 1. Yêu cầu
   - SQL Server LocalDB ( (localdb)\MSSQLLocalDB)
